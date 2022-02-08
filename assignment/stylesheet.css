@@ -1,0 +1,13 @@
+.header {
+  background-color: lightgrey;
+}
+
+.info {
+  background-color: cyan;
+  color: blue;
+}
+
+.img {
+  background-color: grey;
+  color: cyan;
+}
